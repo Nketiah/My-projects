@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card{
+    border-bottom: 2px solid #666 !important;
+    border-right: 2px solid #666 !important;
+}
+.topic{
+    font-weight: bolder;
+}
+.ktu{
+    font-weight: bolder;
+    font-style: italic;
+}
+nav{
+}

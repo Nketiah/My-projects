@@ -1,0 +1,22 @@
+body{
+    background-color: #f4f6eb;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sub-card:hover{
+    -webkit-box-shadow: 3px 3px 5px 6px #959595;
+    -moz-box-shadow:3px 3px 5px 6px #959595;
+    box-shadow: 3px 3px 5px 6px #959595;
+    rgba(0,0,0,0.4);
+    border-radius: 15px;
+    border-top: none;
+}
+.my-nav{
+    border-bottom: solid 6px rgb(218, 138, 6) !important;
+}
+.sub-card{
+    height: 200px;
+    border-bottom: 2px solid #666 !important;
+    border-right: 2px solid #666 !important;
+    /*border-top: 3px solid #005776;*/
+    border-top: 3px solid rgb(218, 138, 6);
+}
